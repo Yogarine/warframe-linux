@@ -4,12 +4,6 @@
 GAMEDIR="/Users/${USER}/Warframe"
 
 echo "*************************************************"
-echo "Making sure wine and winetricks are installed."
-echo "*************************************************"
-
-brew install wine winetricks
-
-echo "*************************************************"
 echo "Creating wine prefix and performing winetricks."
 echo "*************************************************"
 
